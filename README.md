@@ -1,1 +1,2 @@
-My Journey of Being A Full Stack Developer
+My Projects
+On this repository I will be creating my personal projects only
